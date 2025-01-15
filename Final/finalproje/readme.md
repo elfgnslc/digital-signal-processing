@@ -1,5 +1,5 @@
-# digital-signal-processing
-digital signal processing
+# Sinyal İşleme ve Sınıflandırma Projesi
+
 Bu proje, gürültülü sinyaller üzerinde analiz ve sınıflandırma yapmak için geliştirilmiştir. Proje boyunca sinyal filtreleme, frekans alanında analiz, özellik çıkarımı ve makine öğrenimi tabanlı sınıflandırma adımları gerçekleştirilmiştir.
 
 ## Kurulum
